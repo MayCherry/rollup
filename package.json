@@ -82,7 +82,7 @@
     "istanbul": "^0.4.3",
     "lint-staged": "^7.1.0",
     "locate-character": "^2.0.5",
-    "magic-string": "^0.24.0",
+    "magic-string": "^0.24.1",
     "minimist": "^1.2.0",
     "mocha": "^5.1.1",
     "prettier": "^1.12.1",
